@@ -133,7 +133,8 @@ As an <strong>AI & Data Engineer</strong>, I focus on building intelligent syste
 <h2>Contact</h2>
 
 <p align="center">
-  <a href="https://github.com/AnghemSARA">GitHub</a>
+  📧 <a href="mailto:your_email@example.com">megherbisaraanghem@gmail.com</a> <br>
+  💻 <a href="https://github.com/AnghemSARA">github.com/AnghemSARA</a>
 </p>
 
 <!-- FOOTER -->
