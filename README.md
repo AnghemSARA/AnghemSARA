@@ -104,8 +104,11 @@ Deep Learning (YOLO, EfficientDet), Advanced Computer Vision, Data Engineering &
 <h2>Career Objective</h2>
 
 <p>
-My goal is to become an <strong>AI & Data Engineer</strong> and build impactful solutions in environmental monitoring,
-intelligent systems, and data-driven decision making.
+<h2>Career Objective</h2>
+
+
+As an <strong>AI & Data Engineer</strong>, I focus on building intelligent systems and data-driven solutions with real-world impact across different domains.
+
 </p>
 
 <!-- STATS -->
