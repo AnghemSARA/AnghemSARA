@@ -1,5 +1,5 @@
 <!-- HEADER -->
-<h1 align="center">Hi, I'm Sara Anghem Megherbi 👋</h1>
+<h1 align="center"> Sara Anghem Megherbi 👋</h1>
 
 <p align="center">
   <strong>AI & Data Engineer | Computer Vision | Decision Systems</strong>
