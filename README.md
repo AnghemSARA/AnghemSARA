@@ -86,6 +86,16 @@ Excel (Pivot Tables, XLOOKUP, data cleaning, charts), SQL (intermediate – join
 Python | Java | Excel | Android Studio | Talend | GitHub
 </p>
 
+<!-- TECH TOOLBOX -->
+<h2>Tech Toolbox</h2>
+
+<p>
+💻 Development: VS Code, Android Studio <br>
+☁️ Backend & Services: Firebase <br>
+🗄️ Local Environment: XAMPP <br>
+🛠️ Version Control: Git & GitHub
+</p>
+
 <!-- CERTIFICATIONS -->
 <h2>Certifications</h2>
 
