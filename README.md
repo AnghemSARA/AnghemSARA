@@ -17,6 +17,7 @@
 
 <!-- BADGES -->
 <p align="center">
+  <img src="https://img.shields.io/badge/Power%20BI-Intermediate-yellow?logo=powerbi">
   <img src="https://img.shields.io/badge/Python-Intermediate-blue?logo=python">
   <img src="https://img.shields.io/badge/SQL-Intermediate-orange?logo=postgresql">
   <img src="https://img.shields.io/badge/AI-Computer%20Vision-green">
