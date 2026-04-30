@@ -6,10 +6,6 @@
 </p>
 
 <p align="center">
-  Building intelligent solutions using data, satellite imagery, and AI
-</p>
-
-<p align="center">
   <a href="https://github.com/AnghemSARA">
     <img src="https://img.shields.io/badge/GitHub-AnghemSARA-black?style=for-the-badge&logo=github">
   </a>
